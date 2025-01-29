@@ -1,1 +1,1 @@
-print ('Hello Git34!')
+print ('Hello Git34 v2!')
